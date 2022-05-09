@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "Name": "Proceso SPI",
+    "url": "",
+    "icon": "",
+    "key": "sub1",
+    "title": "Proceso SPI",
+    "childrens": [
+      {
+        "id": "11",
+        "idPadre": "1",
+        "Name": "Contingencia SPI",
+        "url": "/procesoSpi",
+        "icon": "R",
+        "key": "csub1",
+        "title": "csubnav 1"
+      },
+      {
+        "id": "12",
+        "idPadre": "1",
+        "Name": "csubnav2",
+        "url": "/csubnav2",
+        "icon": "",
+        "key": "csub2",
+        "title": "csubnav 2"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "Name": "subnav2",
+    "url": "/subnav2",
+    "icon": "",
+    "key": "sub2",
+    "title": "Buzon Fraude",
+    "childrens": [
+      {
+        "id": "21",
+        "idPadre": "1",
+        "Name": "csubnav21",
+        "url": "/csubnav21",
+        "icon": "",
+        "key": "csub21",
+        "title": "csubnav 21"
+      },
+      {
+        "id": "22",
+        "idPadre": "1",
+        "Name": "csubnav22",
+        "url": "/csubnav22",
+        "icon": "",
+        "key": "csub22",
+        "title": "csubnav 22"
+      }
+    ]
+  }
+
+]

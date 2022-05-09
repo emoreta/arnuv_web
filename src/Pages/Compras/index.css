@@ -1,0 +1,36 @@
+.test {
+    border: 1px solid red;
+  }
+  
+  /* table */
+  .ant-table {
+    font-size: 9px;
+    /*background-color: blue;*/
+    border-collapse: collapse;
+  }
+  
+  /* row data */
+  .ant-table-tbody > tr > td {
+    height: 5px;
+    padding: 4px;
+    border-color: #d9d9d9;
+    border-width: 2px;
+    font-size: 12px;
+    /*font-family:Verdana, Geneva, Tahoma, sans-serif;*/
+  }
+  /* row tags */
+  .my-tag {
+    font-size: 8px;
+  }
+ 
+  .ant-table-thead > tr > th {
+    height: 15px;
+    padding: 4px;
+    /*color: #40a9ff;
+    background-color: lawngreen;*/
+    color: white;
+    background: #40a9ff!important;
+    
+    
+/*border-color: blue;*/
+  }

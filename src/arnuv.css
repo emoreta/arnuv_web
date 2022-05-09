@@ -1,0 +1,21 @@
+
+.ant-layout-header {
+    background: #fff;
+    padding: 0 24px;
+  }
+  
+  .logo {
+    width: 160px;
+    float: left;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+    height: 100%;
+  }
+  
+  .ant-layout-content {
+    height: 488px;
+    background: #fff;
+    padding: 24px;
+  }
